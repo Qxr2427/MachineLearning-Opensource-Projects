@@ -1,2 +1,2 @@
 # MachineLearning-Opensource-Projects
-Various machine learning projects on google collab
+Various machine learning projects on google colab
